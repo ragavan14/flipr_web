@@ -1,0 +1,35 @@
+*{
+	color: #fff;
+}
+
+body{
+ 	 -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.form-container{
+	padding: 60px;
+	margin-top: 20vh;
+	margin-bottom: 10vh;
+	-webkit-box-shadow: -12px 7px 16px 9px rgba(0,0,0,0.75);
+	-moz-box-shadow: -12px 7px 16px 9px rgba(0,0,0,0.75);
+	box-shadow: -12px 7px 16px 9px rgba(0,0,0,0.75);
+}
+
+a:link{
+	color: white;
+}
+
+a:visited{
+	color: red;
+}
+
+a:hover{
+	color: #f949ee;
+}
+
+.menu12{
+	margin-top: 50px;
+}

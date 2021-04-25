@@ -1,0 +1,23 @@
+
+.card-img-top {
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+    width: 18rem;
+    height: 15rem;
+    
+}
+
+.team-name{
+	color: #fff;
+}
+
+.vstext{
+	text-align: left;
+	margin-top: 18vh;
+	color: #fff;
+}
+
+.cd{
+	margin: 20px;
+	padding: 5px;
+}
